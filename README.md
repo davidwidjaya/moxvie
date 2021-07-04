@@ -13,7 +13,7 @@ Mobile application for showing trends and popular updates about movie / tv shows
 # Screenshot
 Splash Screen | Home Screen | Detail Screen
 ------------ | ------------- | -------------
-!![Splash Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/splash-screen.png) | ![Home Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/home-movie-screen.png) | ![Detail Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/detail-screen.png)
+![Splash Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/splash-screen.png) | ![Home Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/home-movie-screen.png) | ![Detail Screen](https://github.com/davidwidjaya/moxvie/blob/main/screenshot/detail-screen.png)
 
 <br/>
 <br/>
